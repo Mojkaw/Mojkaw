@@ -14,6 +14,9 @@
 **[GameTheca](https://gametheca.com)** — live games & hardware hub with ratings, deals and a PC builder, pulling data from 30+ stores via the APIs
 `Next.js` `TypeScript` `API`
 
+**[Chess Performance](https://chess.cannyboiz.com/)** — team IoT + ML platform correlating environment and health data with chess performance; Lichess integration, Arduino sensors, ML win-rate/tilt prediction (12-person semester project)
+`React` `.NET` `FastAPI` `PostgreSQL` `RabbitMQ` `Arduino`
+
 **Learnify** — distributed e-learning platform with C# and Java services integrated over gRPC and REST, PostgreSQL storage, Blazor UI
 `C#` `Java` `gRPC` `PostgreSQL` `Blazor`
 
@@ -42,6 +45,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
