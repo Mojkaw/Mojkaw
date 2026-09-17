@@ -75,7 +75,3 @@
 ### 🌐 Elsewhere
 
 [mojkaw.com](https://www.mojkaw.com) · [gametheca.com](https://gametheca.com)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mojkaw&hide_border=true" height="165"/>
-</p>
